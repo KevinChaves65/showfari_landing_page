@@ -256,19 +256,6 @@ export default function LandingPage() {
           </form>
         )}
       </motion.div>
-
-      {/* 🔹 Subway GIF */}
-      <div className="mt-20 rounded-2xl overflow-hidden shadow-2xl border border-white/10">
-        <Image
-          src="/subway.gif"
-          alt="People enjoying live music"
-          width={600}
-          height={300}
-          className="w-full h-auto object-cover"
-          unoptimized
-        />
-      </div>
-
       <footer className="mt-20 border-t border-white/20 pt-6 text-sm text-white/60">
         &copy; {new Date().getFullYear()} Showfari — All rights reserved.
       </footer>
