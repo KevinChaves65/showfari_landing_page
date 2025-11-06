@@ -196,11 +196,8 @@ export default function LandingPage() {
       <section className="mt-24 max-w-4xl w-full px-4">
         <h2 className="text-3xl font-semibold mb-4 text-white">Contact us</h2>
         <p className="text-white/90 text-lg leading-relaxed">
-          Questions or suggestions? Shoot us an email at:
+          Questions or suggestions? Shoot us an email at: showfari.team@gmail.com
         </p>
-        <a>
-          showfari.team@gmail.com
-        </a>
         <br/>
       </section>
        <motion.div
