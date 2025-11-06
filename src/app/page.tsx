@@ -163,43 +163,44 @@ export default function LandingPage() {
             What is Showfari?
           </h2>
           <p className="text-white/90 text-lg leading-relaxed">
-          Founded by artists and members of the scene, we wanted to make it
-          easier for people to discover the kind of special shows we know and
-          love without having to just stumble upon them. So we’re setting out to
-          connect you directly with the performances we think will introduce you
-          to your next favourite artist.
+          Showfari is a passion project founded by artists in Toronto’s music and arts scene, designed to make it easier 
+          to discover the live experiences that define the city. We aim to connect the community with events and artists, 
+          spotlight local talent, fill venues with 
+          fans, and welcome newcomers, ensuring the creators shaping Toronto’s sound get the recognition they deserve.
         </p>
         </CardContent>
       </Card>
 
       <section className="mt-24 max-w-4xl w-full px-4">
         <h2 className="text-3xl font-semibold mb-4 text-white">
-          A way to amplify the Scene!
+          Amplify Toronto’s Sound. Discover What’s Next.
         </h2>
         <p className="text-white/90 text-lg leading-relaxed">
-            With our platform, you will be able to explore the city’s vibrant scene, 
-            find and follow artists and promoters, and get personalized recommendations for shows that 
-            match your unique taste in music.
+            Showfari brings Toronto’s music scene together - artists, promoters, fans, and venues all in one place. 
+            Find local shows, 
+            follow the people making noise, and get personalized recommendations for what’s next.
           </p>
       </section>
 
       <section className="mt-24 max-w-4xl w-full px-4">
         <h2 className="text-3xl font-semibold mb-4 text-white">
-          Why are we asking for the email?
+          Let’s Build Showfari Together!
         </h2>
         <p className="text-white/90 text-lg leading-relaxed">
-          With signing up for our waitlist, you’ll be the first to join our beta
-          coming soon! We’re excited to grow and build this together, and we would love your support.
-           Even a simple follow or share helps us help you!
+          We’re creating a home for Toronto’s music community and we’d love your help! 
+          Join our email waitlist to get access to the beta when it releases, 
+          share your feedback, and help shape a platform made for all of us who love the local scene.
         </p>
       </section>
 
       <section className="mt-24 max-w-4xl w-full px-4">
-        <h2 className="text-3xl font-semibold mb-4 text-white">Contact us!</h2>
+        <h2 className="text-3xl font-semibold mb-4 text-white">Contact us</h2>
         <p className="text-white/90 text-lg leading-relaxed">
-          If you have any concerns or suggestions during our development you can
-          contact us at: showfari.team@gmail.com
+          Questions or suggestions? Shoot us an email at:
         </p>
+        <a>
+          showfari.team@gmail.com
+        </a>
         <br/>
       </section>
        <motion.div
